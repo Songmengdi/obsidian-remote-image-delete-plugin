@@ -1,0 +1,4 @@
+/* 当顶部导航处于锁定状态时的样式 */
+.workspace-tab-header-container-inner {
+    flex: unset !important;
+}

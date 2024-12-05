@@ -1,0 +1,9 @@
+{
+	"id": "remote-image-delete",
+	"name": "Remote Image Delete",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "移除图床上未被ob使用的图片",
+	"author": "Song mengdi",
+	"isDesktopOnly": true
+}
